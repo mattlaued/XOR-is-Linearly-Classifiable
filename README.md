@@ -1,5 +1,9 @@
 # Revisiting Non-separable Classification and its Applications in Anomaly Detection
 
+Code repository for our [TMLR paper](https://openreview.net/forum?id=zOJ846BXhl).
+
+*Abstract*:
+
 The inability to linearly classify XOR has motivated much of deep learning.
 We revisit this age-old problem and show that *linear* classification of XOR is indeed possible.
 Instead of separating data between halfspaces, we propose a slightly different paradigm, *equality separation*, that adapts the SVM objective to distinguish data within or outside the margin.
